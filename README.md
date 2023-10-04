@@ -1,0 +1,4 @@
+# 3DSlicer_Segmentation_Tutorial
+This is a general protocol for hand annotation of 3D image stacks for use in our machine learning segmentation protocols. This tutorial uses a 16-bit cropped, reoriented, LUT adjusted microCT, phosphotungstic acid enhanced scan dataset from the open access available data for [Susan M Motch Perrine, M Kathleen Pitirri, Emily L Durham, Mizuho Kawasaki, Hao Zheng, Danny Z Chen, Kazuhiko Kawasaki, Joan T Richtsmeier (2022) A dysmorphic mouse model reveals developmental interactions of chondrocranium and dermatocranium eLife 11:e76653.](https://doi.org/10.7554/eLife.76653) Penn State ScholarSphere repository [Open Access Data for, "A dysmorphic mouse model reveals developmental interactions of chondrocranium and dermatocranium"](https://scholarsphere.psu.edu/resources/44387e59-0aa7-40f7-9e2b-af4606f5fbac). Pick any of the PTA_microCT_Exx.x folders to download, and the folder "PTA_microCT_docs.zip" for scan information.
+
+##**Directions**
